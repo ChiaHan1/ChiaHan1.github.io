@@ -1,10 +1,9 @@
 # Chia-Han Chen's User Page
 
 ### About Me 
-**I am Chia-Han Chen. I am currently a computer science major studnet at [University of California, San Diego](ucsd.edu).**  
-
-**My favorite quote is**
-> You don't have to be great to start, but you have to start to be great
+**I am Chia-Han Chen. I am currently a computer science major studnet at [University of California, San Diego](ucsd.edu).**
+![This is a picture](/Pictures/IMG_9346.jpg)
+> Geisel Library at UCSD
 
 ### Contact Me
 Please don't hesitate to contact me at [my email](chc016@ucsd.edu).
