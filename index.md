@@ -2,7 +2,7 @@
 
 ### About Me 
 **I am Chia-Han Chen. I am currently a computer science major studnet at [University of California, San Diego](ucsd.edu).**
-![This is a picture](/Pictures/IMG_9346.jpg)
+![This is a picture](/pictures/IMG_9346.jpg)
 > Geisel Library at UCSD
 
 ### Contact Me
